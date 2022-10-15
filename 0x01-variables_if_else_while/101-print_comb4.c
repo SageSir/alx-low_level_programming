@@ -22,7 +22,7 @@ int main(void)
 
 				if (dgt1 == 7 && dgt2 == 8 && dgt3 == 9)
 					continue;
-				
+
 				putchar(',');
 				putchar(' ');
 			}
