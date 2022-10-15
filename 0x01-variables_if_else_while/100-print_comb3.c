@@ -19,7 +19,7 @@ int main(void)
 
 			if (dgt1 == 8 && dgt2 == 9)
 				continue;
-			
+
 			putchar(',');
 			putchar(' ');
 		}
